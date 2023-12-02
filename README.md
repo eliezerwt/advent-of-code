@@ -16,3 +16,9 @@ PS.: Comments and refactor may arrive later than the solution
 ``` bash
 go run day-01/main.go < day-01/part_1.txt
 ```
+
+## Day 2: Cube Conundrum
+
+``` bash
+go run day-02/main.go < day-02/part_1.txt
+```
