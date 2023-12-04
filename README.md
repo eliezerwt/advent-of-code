@@ -22,3 +22,9 @@ go run day-01/main.go < day-01/part_1.txt
 ``` bash
 go run day-02/main.go < day-02/part_1.txt
 ```
+
+## Day 3: Gear Ratios
+
+``` bash
+go run day-03/main.go < day-03/part_1.txt
+```
