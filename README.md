@@ -28,3 +28,10 @@ go run day-02/main.go < day-02/part_1.txt
 ``` bash
 go run day-03/main.go < day-03/part_1.txt
 ```
+
+## Day 4: Scratchcards
+
+``` bash
+go run day-04/main.go < day-04/part_1.txt
+```
+
